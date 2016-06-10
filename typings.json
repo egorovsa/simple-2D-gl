@@ -1,0 +1,7 @@
+{
+  "name": "tsreact",
+  "version": false,
+  "ambientDependencies": {
+    "lodash": "registry:dt/lodash#3.10.0+20160330154726"
+  }
+}
